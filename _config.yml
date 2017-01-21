@@ -7,7 +7,6 @@ url: #http://inabsentia.io
 baseurl: null
 
 google_analytics:
-# repo: https://code.fsociety.info
 
 # Build settings
 permalink   : /:year/:title/
@@ -49,17 +48,9 @@ gems:
 navbar:
   - slug : about
     title: About
-  - slug : code
-    title: Code
-  - slug : img
-    title: img
-  - slug : bin
-    title: bin
   - slug : contact
     title: contact
   - slug : feed
     title: feed
-  - slug : irc
-    title: irc
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
