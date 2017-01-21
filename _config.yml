@@ -1,0 +1,65 @@
+
+# SEO settings
+title: InAbsentia
+description: "*nix site about desktop customisation and other wonderful niche things"
+keywords: "ricing, linux, minimalism, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code"
+url: #http://inabsentia.io
+baseurl: null
+
+google_analytics:
+# repo: https://code.fsociety.info
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
+
+source: src
+destination: html
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "InAbsentia"
+  job      : " ..buffer overflow.."
+  bio      : "ricer // *nix enthusiast // software engineer"
+  thumb    : /images/author.jpg
+  email    : absentia@inabsentia.io
+  url      : http://inabsentia.io
+  github   : https://github.com/inabsencia
+
+# social settings
+og_locale: "en_DK"
+
+#disqus_shortname: "InAbsentia"
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : code
+    title: Code
+  - slug : img
+    title: img
+  - slug : bin
+    title: bin
+  - slug : contact
+    title: contact
+  - slug : feed
+    title: feed
+  - slug : irc
+    title: irc
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
