@@ -1,9 +1,10 @@
-
 # SEO settings
 title: InAbsentia
-description: "*nix site about desktop customisation and other wonderful niche things"
-keywords: "ricing, linux, minimalism, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code"
-url: #http://inabsentia.io
+description: "*nix site about software engineering and other wonderful niche things"
+keywords: "ricing, linux, minimalism, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code, coding, programming, software, engineering,
+    development, developer, programmer"
+
+url: http://inabsentia.io
 baseurl: null
 
 google_analytics:
@@ -38,8 +39,6 @@ author:
 # social settings
 og_locale: "en_DK"
 
-#disqus_shortname: "InAbsentia"
-
 gems:
   - jekyll-paginate
   - jekyll-sitemap
@@ -48,6 +47,10 @@ gems:
 navbar:
   - slug : about
     title: About
+  - slug : projects
+    title: projects
+  - slug : resume
+    title: resume
   - slug : contact
     title: contact
   - slug : feed
