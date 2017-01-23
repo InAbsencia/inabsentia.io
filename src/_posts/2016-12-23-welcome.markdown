@@ -1,0 +1,18 @@
+---
+layout:   post
+title:    "Welcome"
+date:     2016-12-23 15:00:00
+category: welcome
+keywords: "welcome, intro, introduction"
+---
+
+After a long time, I have finally found a website layout that I feel like is what I want. It took a long time for me to find
+something like this, so I am very happy that it finally happened. This site will primarily be a one stop for information about me,
+with links to my github where I hold all of my scripts and projects that I am working on, and you can find an anonoymized version
+of my current resumé as well. I'll be posting about a few different things whenever I find time to do so, mostly regarding software
+and anything unix.
+{: style="text-align: justify;"}
+
+I hope you will find some of the content on this site interesting or helpful in one way or the other, or at least check out my github
+for some cool scripts. Don't forget to subscribe to the feed if you want to be kept updated. :)
+{: style="text-align: justify;"}

@@ -2,7 +2,7 @@
 title: InAbsentia
 description: "*nix site about software engineering and other wonderful niche things"
 keywords: "ricing, linux, minimalism, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code, coding, programming, software, engineering,
-    development, developer, programmer"
+    development, developer, programmer, computer, science"
 
 url: http://inabsentia.io
 baseurl: null
@@ -12,7 +12,7 @@ google_analytics:
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
-highlighter : rouge
+highlighter : pygments
 
 paginate: 4
 paginate_path: "/page/:num/"
