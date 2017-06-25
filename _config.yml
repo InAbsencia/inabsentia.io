@@ -1,10 +1,10 @@
 # SEO settings
 title: InAbsentia
 description: "*nix site about software engineering and other wonderful niche things"
-keywords: "ricing, linux, minimalism, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code, coding, programming, software, engineering,
+keywords: "ricing, linux, nix, unix, bsd, arch, gentoo, funtoo, open-source, gpl, mit, git, code, coding, programming, software, engineering,
     development, developer, programmer, computer, science, security, network, networking"
 
-url: http://inabsentia.io
+url: https://inabsentia.io
 baseurl: null
 
 google_analytics:
@@ -33,13 +33,13 @@ author:
   bio      : "ricer // *nix enthusiast // software engineer"
   thumb    : /images/author.jpg
   email    : absentia@inabsentia.io
-  url      : http://inabsentia.io
+  url      : https://inabsentia.io
   github   : https://github.com/inabsencia
 
 # social settings
-og_locale: "en_DK"
+og_locale: "en_US"
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
