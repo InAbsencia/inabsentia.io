@@ -25,11 +25,11 @@ So why did I choose Arch Linux as my daily distribution? Well there's a few very
 - Barebones
 - Simplicity
 - Arch Wiki
-<br>
 
+<br>
 <hr>
 <center><h5>Rolling release & Bleeding edge software</h5></center>
-<br>
+
 Arch Linux is a rolling release distribution, which in simple terms mean that you only ever have to install the operating system once. This is because that all updates
 (yes, every single update) will be available to download and install by just one simple command. This makes it extremely simple to get the latest and newest updates from the
 Arch Linux repositories in just a few seconds.
@@ -42,6 +42,7 @@ of things makes for a great combination, which is one of my favorite things abou
 <br>
 <hr>
 <center><h5>Arch User Repository, Barebones & Simplicity</h5></center>
+
 Another great thing about Arch Linux is the Arch User Repository. (for short, AUR.) It is a repository where regular Arch Linux users can maintain packages of their own or other software, that for some reason are not included in the core repositories. This makes it a lot easier for the community to get what they want, since it is very simple to put up an AUR package of your favorite software.
 {: style="text-align: justify;"}
 
@@ -53,30 +54,49 @@ I believe that this makes Arch Linux a much more personal distribution, since yo
 <br>
 <hr>
 <center><h5>Arch Wiki</h5></center>
-Last but not least, documentation. The Arch Wiki is probably one of the best, if not the best general Linux documentation you can find, hands down. There exist Arch Wiki pages about specific hardware, which have helped me personally with a lot of problems. It is also a great place to start if you are new to Arch Linux. It is recommended that new Arch users read the
-official installation guide on the Arch Wiki instead of following other tutorials elsewhere. You can also find the answers to most of your Arch related problems there, so it is really a great place to get familiar with.
+
+Last but not least, documentation. The Arch Wiki is probably one of the best, if not the best general Linux documentation you can find, hands down.
+There exist Arch Wiki pages about specific hardware, which have helped me personally with a lot of problems. It is also a great place to start if you are new to Arch Linux.
+{: style="text-align: justify;"}
+
+It is recommended that new Arch users read the official installation guide on the Arch Wiki instead of following other tutorials elsewhere. 
+You can also find the answers to most of your Arch related problems there, so it is really a great place to get familiar with.
 {: style="text-align: justify;"}
 <hr>
 <br>
 <hr>
 <center><h5>Arch Linux & Ricing</h5></center>
-So, why does Arch and ricing go so well together? First, let's make sure that we understand what the concept of ricing is exactly. Ricing is a term used when one is referring to the act of customizing a Linux distribution or making it look great in terms of icons, colors and themes etc. Using Linux, you are able to create essentially your own system.
-You are the owner of the system, and you can pretty much do anything to customize it and making it look great if you have root access. I really like this, since your system just wont look like every other default configuration of Gnome or KDE or some other popular desktop environment, it makes your system feel way more personal, and best of all, act exactly the way you want it to.
+
+So, why does Arch and ricing go so well together? First, let's make sure that we understand what the concept of ricing is exactly.
+Ricing is a term used when one is referring to the act of customizing a Linux distribution or making it look great in terms of icons, colors and themes etc. 
+Using Linux, you are able to create essentially your own system.
 {: style="text-align: justify;"}
 
-As stated beforehand, Arch is a very simple and barebones system out of the box. This is the primary reason why it goes so well with the aspect of ricing, since you are forced to setup and install your own environment from the very start, so why not make it pretty and slight personal.
+You are the owner of the system, and you can pretty much do anything to customize it and making it look great if you have root access. 
+I really like this, since your system just wont look like every other default configuration of Gnome or KDE or some other popular desktop environment, 
+it makes your system feel way more personal, and best of all, act exactly the way you want it to.
 {: style="text-align: justify;"}
 
-Ricing requires a little bit of scripting and Linux knowledge since most of the time you will be putting configuration files to various directories in your system, so if you are completely new to Linux, I would suggest that you learn about directories and basic shell commands before starting your journey into ricing your system. People slightly familiar with how Linux works and terminals/shells in general should have no to few problems trying to rice their system.
+As stated beforehand, Arch is a very simple and barebones system out of the box. This is the primary reason why it goes so well with the aspect of ricing, 
+since you are forced to setup and install your own environment from the very start, so why not make it pretty and slight personal.
 {: style="text-align: justify;"}
 
-After you've gotten familiar with how ricing works, I would suggest that you use some kind of version control software to keep track of all your configuration files (or so called dotfiles.) This is a great idea, since if you need to reinstall
-your system or if you want to try another Linux distribution, you won't to need start all over again with ricing your system. I would suggest using Git or similar to version control your dotfiles and perhaps look into GNU Stow for managing them. That's how I do it.
+Ricing requires a little bit of scripting and Linux knowledge since most of the time you will be putting configuration files to various directories in your system,
+so if you are completely new to Linux, I would suggest that you learn about directories and basic shell commands before starting your journey into ricing your system.
+People slightly familiar with how Linux works and terminals/shells in general should have no to few problems trying to rice their system.
+{: style="text-align: justify;"}
+
+After you've gotten familiar with how ricing works, I would suggest that you use some kind of version control software to keep track of all your configuration files 
+(or so called dotfiles.) This is a great idea, since if you need to reinstall your system or if you want to try another Linux distribution, 
+you won't to need start all over again with ricing your system. I would suggest using Git or similar to version control your dotfiles and perhaps 
+look into GNU Stow for managing them. That's how I do it.
 {: style="text-align: justify;"}
 <hr>
 <br>
 <hr>
 <center><h5>Thanks for reading</h5></center>
-I hope this post was informative for you and gave you some slight insight into the world of ricing and the ideas behind the Arch Linux distribution. Feel free to message me at anytime if you have any questions. Enjoy! :)
+
+I hope this post was informative for you and gave you some slight insight into the world of ricing and the ideas behind the Arch Linux distribution.
+Feel free to message me at anytime if you have any questions. Enjoy!
 {: style="text-align: justify;"}
 <hr>

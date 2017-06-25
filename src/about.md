@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h5>Currently studying Software Engineering at the <a href="https://dtu.dk">Technical University of Denmark, DTU.</a></h5>
+<h5>Currently studying Software Engineering at the <a href="http://dtu.dk">Technical University of Denmark, DTU.</a></h5>
 - <h5>Software engineer and *nix enthusiast. Fan of everything about technology.</h5>
 {: style="text-align: justify;"}
 
@@ -26,7 +26,7 @@ The word is accepted by the majority of the community and is used sparingly to r
 -- [/r/unixporn](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice).
 {: style="text-align: justify;"}
 
-I'll be showcasing some of my own ricing on the blog whenever I get started with a new theme.
+I'll be writing about and showcasing some of the ricing that I do, as well as other projects on this site.
 
 If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
 
