@@ -36,8 +36,8 @@ Some of the buildings are not as modern as others, which make sense since there 
 great and there's most likely more to come I believe.
 {: style="text-align: justify;"}
 
-So yeah, I really like the infrastructure of the university, pretty much nothing negative to say about that, aslong as it gets improved continuously. I have not been involved with anything
-administrative, so I can't put my word on that, but what I hear is that the support and help desks are great as well.
+So yeah, I really like the infrastructure of the university, pretty much nothing negative to say about that, aslong as the ongoing improvements are continued.
+I have not been involved with anything administrative, so I can't put my word on that, but what I hear is that the support and help desks are great as well.
 {: style="text-align: justify;"}
 <hr>
 <br>
@@ -50,16 +50,39 @@ related project during the very same semester.
 {: style="text-align: justify;"}
 
 Personally, that was a very attractive trait to me, and one of the main reasons why I ended up applying for this specific program. To give some concrete examples, the first semester project
-was a fully functional monopoly-like game, which was implemented in Java with a GUI API.
+was a fully functional monopoly-like game, which was implemented in Java using GUI API.
 {: style="text-align: justify;"}
 
 This project involved all the concepts and practices that was taught in the Introductory Programming course in the first semester as well. 
 I believe that this is a very big plus for when one has to learn programming and how to apply the various concepts that are taught in a course. 
-This has a downside however, because the time used on these projects are time that could be spent on learning more advanced theory of software engineering and computer science in general, 
+This has a downside however, because the time used on these projects is time that could be spent on learning more advanced theory of software engineering and computer science in general, 
 but I believe that the trade off in this specific program is very well balanced. 
 {: style="text-align: justify;"}
 
 Other than a Introductory Programming course in Java, there was also a course in Discrete Mathematics, Calculus And Algebra 1, Development
 Methods for IT-Systems as well as Version Control and Test Methods courses in the first semester.
+{: style="text-align: justify;"}
+
+The first year consists of two semesters, and the second semester was very similar to the first one, in terms of group projects and work.
+This semester was more focused on web technologies and web programming in general, which was a very nice experience as well. Two other courses
+in this semester involved low level networking and programming, as well as a course in data communication. These courses were extremely interesting to me, especially
+since most of their curriculum was taught using Linux. However, one unfortunate thing was both of these courses had a terrible structure, which essentially led to a lot of confusion
+and difficulties during the assigned projects.
+{: style="text-align: justify;"}
+
+The most difficult course of the second semester must have been Algorithms and Data Structures. It was a very hands-on course, which is to be expected of this degree, 
+but it was still very challenging and I feel like I've learned a lot from it. I'm considering taking a graduate course in Algorithms and Data Structures as elective,
+since this course was very well structured and planned out.
+{: style="text-align: justify;"}
+
+As a conclusion of my first year, I would say that I have learned a ton that I can put to practice already, which is an amazing feeling. The program so far has been a great experience, albeit with a few structural problems in some of the courses, but despite that I am looking forward to starting my second year after the summer is over.
+{: style="text-align: justify;"}
+<hr>
+<br>
+<hr>
+<center><h5>The End</h5></center>
+This sums up the general experience of my first year at university. It hasn't been without flaws, that I believe that is to be expected.
+I hope that at least one person will find this post useful in one way or the other, perhaps someone who is considering the same program. If so, I would
+not hesitate at all. Thank you for reading and have a great day!
 {: style="text-align: justify;"}
 <hr>

@@ -14,7 +14,8 @@ extremely frustrated with the locked down nature of Microsoft's Windows platform
 
 I started using computers at a very young age and I was fascinated by what they could do. This started a life long passion in computer science and software engineering.
 Since high school, I spent most of my spare time studying and learning about computer science and engineering concepts, which naturally led to a huge interest in 
-mathematics and physics. My interests include, but are not limited to programming languages, artificial intelligence, algorithms, security, Linux, FOSS and much more.
+mathematics and physics. My interests include, but are not limited to programming languages, artificial intelligence, algorithms, networking, 
+security, Linux, FOSS and much more.
 {: style="text-align: justify;"}
 
 Since I have a passion for tinkering with *nix operating systems, I have started doing something the *nix community call "ricing".
@@ -26,7 +27,7 @@ The word is accepted by the majority of the community and is used sparingly to r
 -- [/r/unixporn](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice).
 {: style="text-align: justify;"}
 
-I'll be writing about and showcasing some of the ricing that I do, as well as other projects on this site.
+I'll be writing about and showcasing some of the ricing that I do, as well as other software related projects on this site.
 
 If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
 
