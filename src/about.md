@@ -14,7 +14,7 @@ extremely frustrated with the locked down nature of Microsoft's Windows platform
 
 I started using computers at a very young age and I was fascinated by what they could do. This started a life long passion in computer science and software engineering.
 Since high school, I spent most of my spare time studying and learning about computer science and engineering concepts, which naturally led to a huge interest in 
-mathematics and physics. My interests include, but are not limited to programming languages, artificial intelligence, algorithms, networking, 
+mathematics and physics. My interests include, but not limited to programming languages, artificial intelligence, algorithms, networking, 
 security, Linux, FOSS and much more.
 {: style="text-align: justify;"}
 
