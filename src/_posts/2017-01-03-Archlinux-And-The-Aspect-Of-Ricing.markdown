@@ -73,12 +73,12 @@ Using Linux, you are able to create essentially your own system.
 {: style="text-align: justify;"}
 
 You are the owner of the system, and you can pretty much do anything to customize it and making it look great if you have root access. 
-I really like this, since your system just wont look like every other default configuration of Gnome or KDE or some other popular desktop environment, 
+I really like this, since your system just won't look like every other default configuration of Gnome or KDE or some other popular desktop environment, 
 it makes your system feel way more personal, and best of all, act exactly the way you want it to.
 {: style="text-align: justify;"}
 
 As stated beforehand, Arch is a very simple and barebones system out of the box. This is the primary reason why it goes so well with the aspect of ricing, 
-since you are forced to setup and install your own environment from the very start, so why not make it pretty and slight personal.
+since you are forced to setup and install your own environment from the very start, so why not make it pretty and personal.
 {: style="text-align: justify;"}
 
 Ricing requires a little bit of scripting and Linux knowledge since most of the time you will be putting configuration files to various directories in your system,
@@ -87,9 +87,15 @@ People slightly familiar with how Linux works and terminals/shells in general sh
 {: style="text-align: justify;"}
 
 After you've gotten familiar with how ricing works, I would suggest that you use some kind of version control software to keep track of all your configuration files 
-(or so called dotfiles.) This is a great idea, since if you need to reinstall your system or if you want to try another Linux distribution, 
+(or so called dotfiles.) This is a great idea, since if you need to reinstall your system or if you want to try another Linux distribution on new hardware, 
 you won't to need start all over again with ricing your system. I would suggest using Git or similar to version control your dotfiles and perhaps 
 look into GNU Stow for managing them. That's how I do it.
+{: style="text-align: justify;"}
+
+If you feel like you've got what it takes to jump into the world of ricing, I would suggest taking a look at the following subreddit, <a href="https://reddit.com/r/unixporn">/r/unixporn</a>. This is a subreddit where people upload images of their so called "rices", and its very common to leave a link to the dotfiles which has been used for the rice. You are fully able to explore and learn from these dotfiles, since they are mostly linked from a version controlled repository. If you fall in love with a 
+certain rice that you see, you could always try to download their dotfiles and see if you can make them fit onto your own system. Disclaimer: It is possible, but it can
+require a lot of rewriting of the dotfiles, anyhow, it's still a great way to learn from and might help you understand how to use and write your own configuration
+files in the future. So, if you want to get started immediately, go to the unixporn subreddit and start exploring. I wish you a great journey!
 {: style="text-align: justify;"}
 <hr>
 <br>
