@@ -28,7 +28,10 @@ The word is accepted by the majority of the community and is used sparingly to r
 {: style="text-align: justify;"}
 
 I'll be writing about and showcasing some of the ricing that I do, as well as other software related projects on this site.
+{: style="text-align: justify;"}
 
 If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
+{: style="text-align: justify;"}
 
 Have fun! :)
+{: style="text-align: justify;"}
