@@ -8,7 +8,7 @@ keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo,
            engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project"
 
 url: https://inabsentia.io
-baseurl: https://inabsentia.io
+baseurl: null
 
 # Build settings
 permalink   : /:year/:title/
@@ -32,7 +32,7 @@ author:
   name     : "InAbsentia"
   job      : " ..buffer overflow.."
   bio      : "ricer // *nix enthusiast // software engineer"
-  thumb    : /images/author.jpg
+  thumb    : /assets/img/author.jpg
   email    : absentia@inabsentia.io
   url      : https://inabsentia.io
   github   : https://github.com/inabsencia
