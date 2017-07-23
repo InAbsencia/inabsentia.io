@@ -1,6 +1,7 @@
 # SEO settings
 title: InAbsentia
-title_description: "ALL THINGS *NIX | *nix site about software engineering and other wonderful niche things"
+site_name: "ALL THINGS *NIX"
+title_description: "*nix site about software engineering and other wonderful niche things"
 description: "ALL THINGS *NIX is a website that documents the journey of aspiring software engineer, InAbsentia. The site is about software engineering with a focus on 
 *nix-like systems in the aspects of usage and software development."
 keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
