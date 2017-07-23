@@ -1,8 +1,10 @@
 # SEO settings
 title: InAbsentia
-description: "*nix site about software engineering and other wonderful niche things"
-keywords: "ricing, linux, nix, unix, bsd, arch, gentoo, funtoo, ubuntu, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
-           engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, projects"
+title_description: "ALL THINGS *NIX | *nix site about software engineering and other wonderful niche things"
+description: "ALL THINGS *NIX is a website that documents the journey of aspiring software engineer, InAbsentia. The site is about software engineering with a focus on 
+*nix-like systems in the aspects of usage and software development."
+keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
+           engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project"
 
 url: https://inabsentia.io
 baseurl: null
