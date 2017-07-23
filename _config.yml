@@ -8,7 +8,7 @@ keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo,
            engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project"
 
 url: https://inabsentia.io
-baseurl: null
+baseurl: https://inabsentia.io
 
 # Build settings
 permalink   : /:year/:title/
