@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h5>Currently studying Software Engineering at the <a href="http://dtu.dk">Technical University of Denmark, DTU.</a></h5>
+<h5>Currently studying Software Engineering at the <a href="http://dtu.dk" target="_blank">Technical University of Denmark, DTU.</a></h5>
 - <h5>Software engineer and *nix enthusiast. Fan of everything about technology.</h5>
 {: style="text-align: justify;"}
 
@@ -24,7 +24,7 @@ Since I have a passion for tinkering with *nix operating systems, I have started
 > "Rice" is a word that is commonly used to refer to making visual improvements and customizations on one's desktop. It was inherited from the
 practice of customizing cheap Asian import cars to make them appear to be faster than they actually were - which was also known as "ricing".
 The word is accepted by the majority of the community and is used sparingly to refer to a visually attractive desktop upgraded beyond the default.
--- [/r/unixporn](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice).
+-- <a href="https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice" target="_blank">/r/unixporn</a>
 {: style="text-align: justify;"}
 
 I'll be writing about and showcasing some of the ricing that I do, as well as other software related projects on this site.

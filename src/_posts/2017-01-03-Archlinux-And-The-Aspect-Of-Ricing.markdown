@@ -3,7 +3,7 @@ layout: post
 title:  "Arch Linux & the aspect of ricing"
 date:   2017-01-03 21:14:02
 category: software
-keywords: "linux, archlinux, ricing, unix"
+keywords: "linux, archlinux, ricing, unix, *nix"
 ---
 
 I have always wanted to make a post regarding Linux and ricing in general, so I thought it would be a nice way to start the year with my first blog post being about just that!
@@ -92,7 +92,7 @@ you won't to need start all over again with ricing your system. I would suggest 
 look into GNU Stow for managing them. That's how I do it.
 {: style="text-align: justify;"}
 
-If you feel like you've got what it takes to jump into the world of ricing, I would suggest taking a look at the following subreddit, <a href="https://reddit.com/r/unixporn">/r/unixporn</a>. This is a subreddit where people upload images of their so called "rices", and its very common to leave a link to the dotfiles which has been used for the rice. You are fully able to explore and learn from these dotfiles, since they are mostly linked from a version controlled repository. If you fall in love with a 
+If you feel like you've got what it takes to jump into the world of ricing, I would suggest taking a look at the following subreddit, <a href="https://reddit.com/r/unixporn" target="_blank">/r/unixporn</a>. This is a subreddit where people upload images of their so called "rices", and its very common to leave a link to the dotfiles which has been used for the rice. You are fully able to explore and learn from these dotfiles, since they are mostly linked from a version controlled repository. If you fall in love with a 
 certain rice that you see, you could always try to download their dotfiles and see if you can make them fit onto your own system. Disclaimer: It is possible, but it can
 require a lot of rewriting of the dotfiles, anyhow, it's still a great way to learn from and might help you understand how to use and write your own configuration
 files in the future. So, if you want to get started immediately, go to the unixporn subreddit and start exploring. I wish you a great journey!
