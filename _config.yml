@@ -1,11 +1,12 @@
 # SEO settings
 title: InAbsentia
 site_name: "ALL THINGS *NIX"
-title_description: "*nix site about software engineering and other wonderful niche things"
-description: "ALL THINGS *NIX is a website that documents the journey of aspiring software engineer, InAbsentia. The site is about software engineering with a focus on 
-*nix-like systems in the aspects of usage and software development."
+title_description: "*nix site about software development and other wonderful niche things"
+description: "ALL THINGS *NIX is a site hosted by aspiring software developer and self-taught programmer, InAbsentia.
+              The site includes posts regarding the customization of *nix systems, various kinds of helpful tips and tricks, and finally, the thoughts of a developer."
 keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
-           engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project"
+           engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project, artificial, intelligence,
+           machine, learning, deep, learning, robotics, electronics, personal, blod, mindset, life, live, mind, thoughts, thought, mind, mindset"
 
 url: https://inabsentia.io
 baseurl: null
@@ -31,7 +32,7 @@ sass:
 author:
   name     : "InAbsentia"
   job      : " ..buffer overflow.."
-  bio      : "ricer // *nix enthusiast // software engineer"
+  bio      : "ricer // *nix enthusiast // developer"
   thumb    : /assets/img/author.jpg
   email    : absentia@inabsentia.io
   url      : https://inabsentia.io
