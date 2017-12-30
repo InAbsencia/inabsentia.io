@@ -13,7 +13,6 @@ I felt like sharing some of my first hand experiences and thoughts regarding the
 {: style="text-align: justify;"}
 
 <br>
-<hr>
 <center><h5>The University</h5></center>
 <center><img src="/assets/img/dtu_logo.jpg" width="100" height="135" alt="DTU Logo"></center>
 <br>
@@ -39,18 +38,16 @@ great and there's most likely more to come I believe.
 So yeah, I really like the infrastructure of the university, pretty much nothing negative to say about that, aslong as the ongoing improvements are continued.
 I have not been involved with anything administrative, so I can't put my word on that, but what I hear is that the support and help desks are great as well.
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>The Program</h5></center>
 
-The Bachelor of Engineering, Software Engineering program that I am currently enrolled in has been a great experience so far, albeit with a few hiccups. One of the most important things
+The Bachelor in Engineering, Software Engineering program that I am currently enrolled in has been a great experience so far, albeit with a few hiccups. One of the most important things
 to know about this specific program, is the fact that it is very hands-on based. This means that the theory that is taught in the lectures, are almost, if not always used in a software 
 related project during the very same semester.
 {: style="text-align: justify;"}
 
 Personally, that was a very attractive trait to me, and one of the main reasons why I ended up applying for this specific program. To give some concrete examples, the first semester project
-was a fully functional monopoly-like game, which was implemented in Java using GUI API.
+was a fully functional monopoly-like game, which was implemented in Java using a in-house made API for the GUI.
 {: style="text-align: justify;"}
 
 This project involved all the concepts and practices that was taught in the Introductory Programming course in the first semester as well. 
@@ -77,12 +74,9 @@ since this course was very well structured and planned out.
 
 As a conclusion of my first year, I would say that I have learned a ton that I can put to practice already, which is an amazing feeling. The program so far has been a great experience, albeit with a few structural problems in some of the courses, but despite that I am looking forward to starting my second year after the summer is over.
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>The End</h5></center>
 This sums up the general experience of my first year at university. It hasn't been without flaws, that I believe that is to be expected.
 I hope that at least one person will find this post useful in one way or the other, perhaps someone who is considering the same program. If so, I would
 not hesitate at all. Thank you for reading and have a great day!
 {: style="text-align: justify;"}
-<hr>

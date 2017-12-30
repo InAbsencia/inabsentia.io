@@ -3,10 +3,10 @@ title: InAbsentia
 site_name: "ALL THINGS *NIX"
 title_description: "*nix site about software development and other wonderful niche things"
 description: "ALL THINGS *NIX is a site hosted by aspiring software developer and self-taught programmer, InAbsentia.
-              The site includes posts regarding the customization of *nix systems, various kinds of helpful tips and tricks, and finally, the thoughts of a developer."
-keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
+              The site includes posts regarding the customization of *nix systems, various kinds of helpful tips and tricks, and the thoughts of a developer."
+keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, mint, void, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
            engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project, artificial, intelligence,
-           machine, learning, deep, learning, robotics, electronics, personal, blod, mindset, life, live, mind, thoughts, thought, mind, mindset"
+           machine, learning, deep, learning, robotics, electronics, personal, blog, mindset, life, live, mind, thoughts, thought, education, university"
 
 url: https://inabsentia.io
 baseurl: null

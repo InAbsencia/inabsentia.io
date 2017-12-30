@@ -1,3 +1,4 @@
+# inabsentia.io deployment script
 bundle exec jekyll build
 sudo rm -rf /var/www/inabsentia.io/public_html/*
 sudo cp -r html/* /var/www/inabsentia.io/public_html/.

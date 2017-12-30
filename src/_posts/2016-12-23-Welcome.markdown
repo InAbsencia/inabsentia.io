@@ -17,5 +17,5 @@ I hope you will find some of the content on this site interesting or helpful in 
 for some cool scripts and projects. Don't forget to subscribe to the feed if you want to be kept updated.
 {: style="text-align: justify;"}
 
-Take care! :)
+Take care and thanks for reading! :)
 {: style="text-align: justify;"}

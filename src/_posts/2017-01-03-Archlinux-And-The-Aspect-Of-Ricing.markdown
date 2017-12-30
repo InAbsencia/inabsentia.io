@@ -27,7 +27,6 @@ So why did I choose Arch Linux as my daily distribution? Well there's a few very
 - Arch Wiki
 
 <br>
-<hr>
 <center><h5>Rolling release & Bleeding edge software</h5></center>
 
 Arch Linux is a rolling release distribution, which in simple terms mean that you only ever have to install the operating system once. This is because that all updates
@@ -38,9 +37,7 @@ Arch Linux repositories in just a few seconds.
 There exist other distributions that are rolling release as well, but the fact that Arch is a rolling release distribution in cooperation with its software being on the bleeding edge
 of things makes for a great combination, which is one of my favorite things about Arch. This is especially great for people with newer hardware, since older versions of Linux and corresponding software tend not to run very well on bleeding edge systems.
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>Arch User Repository, Barebones & Simplicity</h5></center>
 
 Another great thing about Arch Linux is the Arch User Repository. (for short, AUR.) It is a repository where regular Arch Linux users can maintain packages of their own or other software, that for some reason are not included in the core repositories. This makes it a lot easier for the community to get what they want, since it is very simple to put up an AUR package of your favorite software.
@@ -50,9 +47,7 @@ Arch is extremely barebones and simple, since Arch is built on top of the KISS p
 for the operating system to operate. Arch Linux is essentially a playground, when you've got it installed, you can install whatever window manager or desktop environment you want and make it exactly how you want it.
 I believe that this makes Arch Linux a much more personal distribution, since you are pretty much forced to built it up yourself.
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>Arch Wiki</h5></center>
 
 Last but not least, documentation. The Arch Wiki is probably one of the best, if not the best general Linux documentation you can find, hands down.
@@ -62,9 +57,7 @@ There exist Arch Wiki pages about specific hardware, which have helped me person
 It is recommended that new Arch users read the official installation guide on the Arch Wiki instead of following other tutorials elsewhere. 
 You can also find the answers to most of your Arch related problems there, so it is really a great place to get familiar with.
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>Arch Linux & Ricing</h5></center>
 
 So, why does Arch and ricing go so well together? First, let's make sure that we understand what the concept of ricing is exactly.
@@ -97,12 +90,9 @@ certain rice that you see, you could always try to download their dotfiles and s
 require a lot of rewriting of the dotfiles, anyhow, it's still a great way to learn from and might help you understand how to use and write your own configuration
 files in the future. So, if you want to get started immediately, go to the unixporn subreddit and start exploring. I wish you a great journey!
 {: style="text-align: justify;"}
-<hr>
 <br>
-<hr>
 <center><h5>Thanks for reading</h5></center>
 
 I hope this post was informative for you and gave you some slight insight into the world of ricing and the ideas behind the Arch Linux distribution.
 Feel free to message me at anytime if you have any questions. Enjoy!
 {: style="text-align: justify;"}
-<hr>
