@@ -10,12 +10,21 @@ After a long time, I have finally found a website layout that I feel like is wha
 something like this, so I am very happy that it finally happened. This site will primarily be a one stop for information about me,
 with links to my github where I hold all of my scripts and projects that I am working on, and you will also be able to find
 the latest version of my resumé as well. I'll be posting about a few different things whenever I find time to do so, 
-mostly regarding software and anything *nix related.
+mostly regarding software and anything \*nix related.
 {: style="text-align: justify;"}
 
 I hope you will find some of the content on this site interesting or helpful in one way or the other, or at least check out my github
 for some cool scripts and projects. Don't forget to subscribe to the feed if you want to be kept updated.
 {: style="text-align: justify;"}
 
+For those interested, this is how the website is built.
+{: style="text-align: justify;"}
+
+- ▪ Written on a ThinkPad using Linux.
+- ▪ Written and edited using vim/neovim.
+- ▪ Deployed on a Linux VPS.
+- ▪ Written in Copenhagen, Denmark.
+{: style="text-align: justify;"}
+<br/>
 Take care and thanks for reading! :)
 {: style="text-align: justify;"}
