@@ -49,13 +49,13 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : projects
-    title: projects
+  - slug : code
+    title: Code
   - slug : resume
-    title: resume
+    title: Resume
   - slug : contact
-    title: contact
+    title: Contact
   - slug : feed
-    title: feed
+    title: Feed
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

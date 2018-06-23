@@ -93,5 +93,5 @@ files in the future. So, if you want to get started immediately, go to the unixp
 ### Thanks for reading
 
 I hope this post was informative for you and gave you some slight insight into the world of ricing and the ideas behind the Arch Linux distribution.
-Feel free to message me at anytime if you have any questions. Enjoy!
+Feel free to message me at anytime if you have any questions. Enjoy.
 {: style="text-align: justify;"}

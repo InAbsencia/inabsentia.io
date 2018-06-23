@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: Resume
 permalink: /resume/
 ---
-<a href="https://inabsentia.io/resume/resume.pdf" target="_blank">View Resumé</a>
+<a href="https://inabsentia.io/resume/resume.pdf" target="_blank">View Resume</a>

@@ -8,8 +8,8 @@ keywords: "welcome, intro, introduction"
 
 After a long time, I have finally found a website layout that I feel like is what I want. It took a long time for me to find
 something like this, so I am very happy that it finally happened. This site will primarily be a one stop for information about me,
-with links to my github where I hold all of my scripts and projects that I am working on, and you will also be able to find
-the latest version of my resumé as well. I'll be posting about a few different things whenever I find time to do so, 
+with links to my GitHub where I hold all of my scripts and projects that I am working on, and you will also be able to find
+the latest version of my resume as well. I'll be posting about a few different things whenever I find time to do so, 
 mostly regarding software and anything \*nix related.
 {: style="text-align: justify;"}
 
@@ -26,5 +26,5 @@ For those interested, this is how the website is built.
 - ▪ Written in Copenhagen, Denmark.
 {: style="text-align: justify;"}
 <br/>
-Take care and thanks for reading! :)
+Thanks for reading.
 {: style="text-align: justify;"}

@@ -9,7 +9,7 @@ permalink: /about/
 {: style="text-align: justify;"}
 
 Most people know me as "InAbsentia" in the *nix and software communities. I've been using open-source *nix based operating systems since 2015 after getting
-extremely frustrated with the locked down nature of Microsoft's Windows platform. Ever since then I've become an open-source and freedom advocate.
+extremely frustrated with the locked down nature of Microsoft's Windows platform. Ever since then I've become an open source and freedom advocate.
 {: style="text-align: justify;"}
 
 I started using computers at a very young age and I was fascinated by what they could do. This started a life long passion in computer science and software engineering.
@@ -33,5 +33,5 @@ I'll be writing about and showcasing some of the ricing that I do, as well as ot
 If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
 {: style="text-align: justify;"}
 
-Have fun! :)
+Have fun.
 {: style="text-align: justify;"}
