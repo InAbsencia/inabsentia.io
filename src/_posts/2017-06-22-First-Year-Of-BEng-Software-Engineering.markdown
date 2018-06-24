@@ -6,6 +6,9 @@ category: software
 keywords: "school, university, first year, 1st year"
 ---
 
+<center><img src="/assets/img/dtu_logo.jpg" width="130" height="165" alt="DTU Logo"></center>
+<br>
+
 As the title specifies, I recently finished my first year of the BEng degree in Software Engineering at the <a href="http://dtu.dk" target="_blank">Technical University of Denmark</a>, and boy has that been a wonderful, yet craving ride. I have experienced a lot more than I had anticipated at first.
 {: style="text-align: justify;"}
 
@@ -14,8 +17,7 @@ I felt like sharing some of my first hand experiences and thoughts regarding the
 
 <br>
 ### The University 
-<center><img src="/assets/img/dtu_logo.jpg" width="100" height="135" alt="DTU Logo"></center>
-<br>
+<hr>
 The <a href="http://dtu.dk" target="_blank">Technical University of Denmark, DTU</a> has been nothing but a pleasure so far.
 {: style="text-align: justify;"}
 
@@ -40,7 +42,7 @@ I have not been involved with anything administrative, so I can't put my word on
 {: style="text-align: justify;"}
 <br>
 ### The Program
-
+<hr>
 The Bachelor in Engineering, Software Engineering program that I am currently enrolled in has been a great experience so far, albeit with a few hiccups. One of the most important things
 to know about this specific program, is the fact that it is very hands-on based. This means that the theory that is taught in the lectures, are almost, if not always used in a software 
 related project during the very same semester.
@@ -76,7 +78,8 @@ As a conclusion of my first year, I would say that I have learned a ton that I c
 {: style="text-align: justify;"}
 <br>
 ### The End
-This sums up the general experience of my first year at university. It hasn't been without flaws, that I believe that is to be expected.
+<hr>
+This sums up the general experience of my first year at university. It hasn't been without flaws, I believe that is to be expected.
 I hope that at least one person will find this post useful in one way or the other, perhaps someone who is considering the same program. If so, I would
 not hesitate at all. Thank you for reading and have a great day.
 {: style="text-align: justify;"}

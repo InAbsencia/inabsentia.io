@@ -6,12 +6,15 @@ category: software
 keywords: "text, cleartext, ascii, copy, paste"
 ---
 
-Recently I have been starting to use ASCII tables a lot for various projects, and I never really felt satisfied with what I found online. 
+Recently I have been starting to use ASCII tables a lot for various projects and I never really felt satisfied with what I found online. 
 So I thought that this would be a great opportunity to create one myself, so that's exactly what I did, and here's the result.
 {: style="text-align: justify;"}
 
 I decided to put it online, in case anyone else would benefit from it. If you got any suggestions for improvements, bugs or anything else, please do not hesitate to contact me.
 {: style="text-align: justify;"}
+<br/>
+
+<center><img src="/assets/img/ascii_logo.png" width="70%" alt="ASCII Logo"></center>
 <br/>
 
 ### Contents

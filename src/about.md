@@ -7,15 +7,14 @@ permalink: /about/
 <h5>Currently studying Software Engineering at the <a href="http://dtu.dk" target="_blank">Technical University of Denmark, DTU.</a></h5>
 - <h5>Software developer and *nix enthusiast. Fan of everything about technology.</h5>
 {: style="text-align: justify;"}
-
-Most people know me as "InAbsentia" in the *nix and software communities. I've been using open-source *nix based operating systems since 2015 after getting
+<hr>
+Most people know me as "InAbsentia" in the *nix and software communities. I've been using open source *nix based operating systems since 2015 after getting
 extremely frustrated with the locked down nature of Microsoft's Windows platform. Ever since then I've become an open source and freedom advocate.
 {: style="text-align: justify;"}
 
 I started using computers at a very young age and I was fascinated by what they could do. This started a life long passion in computer science and software engineering.
 Since high school, I spent most of my spare time studying and learning about computer science and engineering concepts, which naturally led to a huge interest in 
-mathematics and physics. My interests include, but not limited to, artificial intelligence, machine learning, embedded systems, algorithms, security, Linux, FOSS, video games, food, 
-traveling and much more.
+mathematics and physics. My interests include, but not limited to, artificial intelligence, machine learning, embedded systems, algorithms, security, Linux, FOSS and much more.
 {: style="text-align: justify;"}
 
 Since I have a passion for tinkering with *nix operating systems, I have started doing something the *nix community call "ricing".
@@ -33,5 +32,5 @@ I'll be writing about and showcasing some of the ricing that I do, as well as ot
 If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
 {: style="text-align: justify;"}
 
-Have fun.
+Thanks.
 {: style="text-align: justify;"}

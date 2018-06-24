@@ -27,7 +27,7 @@ So why did I choose Arch Linux as my daily distribution? Well there's a few very
 
 <br/>
 ### Rolling release & Bleeding edge software
-
+<hr>
 Arch Linux is a rolling release distribution, which in simple terms mean that you only ever have to install the operating system once. This is because that all updates
 (yes, every single update) will be available to download and install by just one simple command. This makes it extremely simple to get the latest and newest updates from the
 Arch Linux repositories in just a few seconds.
@@ -38,7 +38,7 @@ of things makes for a great combination, which is one of my favorite things abou
 {: style="text-align: justify;"}
 <br/>
 ### Arch User Repository, Barebones & Simplicity
-
+<hr>
 Another great thing about Arch Linux is the Arch User Repository. (for short, AUR.) It is a repository where regular Arch Linux users can maintain packages of their own or other software, that for some reason are not included in the core repositories. This makes it a lot easier for the community to get what they want, since it is very simple to put up an AUR package of your favorite software.
 {: style="text-align: justify;"}
 
@@ -48,7 +48,7 @@ I believe that this makes Arch Linux a much more personal distribution, since yo
 {: style="text-align: justify;"}
 <br/>
 ### Arch Wiki
-
+<hr>
 Last but not least, documentation. The Arch Wiki is probably one of the best, if not the best general Linux documentation you can find, hands down.
 There exist Arch Wiki pages about specific hardware, which have helped me personally with a lot of problems. It is also a great place to start if you are new to Arch Linux.
 {: style="text-align: justify;"}
@@ -58,7 +58,7 @@ You can also find the answers to most of your Arch related problems there, so it
 {: style="text-align: justify;"}
 <br/>
 ### Arch Linux & Ricing
-
+<hr>
 So, why does Arch and ricing go so well together? First, let's make sure that we understand what the concept of ricing is exactly.
 Ricing is a term used when one is referring to the act of customizing a Linux distribution or making it look great in terms of icons, colors and themes etc. 
 Using Linux, you are able to create essentially your own system.
@@ -91,7 +91,7 @@ files in the future. So, if you want to get started immediately, go to the unixp
 {: style="text-align: justify;"}
 <br/>
 ### Thanks for reading
-
+<hr>
 I hope this post was informative for you and gave you some slight insight into the world of ricing and the ideas behind the Arch Linux distribution.
 Feel free to message me at anytime if you have any questions. Enjoy.
 {: style="text-align: justify;"}
