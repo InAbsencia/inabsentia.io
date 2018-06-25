@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arch Linux & the aspect of ricing"
+title:  "Arch Linux & The Aspect of Ricing"
 date:   2017-01-03 21:14:02
 category: software
 keywords: "linux, archlinux, ricing, unix, *nix"
