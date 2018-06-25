@@ -8,7 +8,7 @@ permalink: /about/
 - <h5>Software developer and *nix enthusiast. Fan of everything about technology.</h5>
 {: style="text-align: justify;"}
 <hr>
-Most people know me as "InAbsentia" in the *nix and software communities. I've been using open source *nix based operating systems since 2015 after getting
+Most people know me as "Iyyel" in the *nix and software communities. I've been using open source *nix based operating systems since 2015 after getting
 extremely frustrated with the locked down nature of Microsoft's Windows platform. Ever since then I've become an open source and freedom advocate.
 {: style="text-align: justify;"}
 
@@ -29,7 +29,7 @@ The word is accepted by the majority of the community and is used sparingly to r
 I'll be writing about and showcasing some of the ricing that I do, as well as other projects on this site.
 {: style="text-align: justify;"}
 
-If you have any questions feel free to contact me through any of the avenues on the [contact](https://inabsentia.io/contact) page.
+If you have any questions feel free to contact me through any of the avenues on the [contact](https://iyyel.io/contact) page.
 {: style="text-align: justify;"}
 
 Thanks.

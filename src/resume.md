@@ -6,7 +6,7 @@ permalink: /resume/
 
 I have experience in a handful of various technologies and have used
 these to create different kinds of systems. If interested to know more or want to see
-my actual resume, don't hesitate to contact me through the <a href="https://inabsentia.io/contact/">contact</a> page.
+my actual resume, don't hesitate to contact me through the <a href="https://iyyel.io/contact/">contact</a> page.
 {: style="text-align: justify;"}
 Below, a list of the most important points can be seen.
 {: style="text-align: justify;"}
@@ -33,7 +33,7 @@ Technical University of Denmark.
 - ▪ Distributed System: Implemented a distributed system with 4 clients using RESTful webservices and RMI. Written in Python and Java.
 {: style="text-align: justify;"}
 <br>
-For personal projects, see the <a href="https://inabsentia.io/code/">code</a> page.
+For personal projects, see the <a href="https://iyyel.io/code/">code</a> page.
 {: style="text-align: justify;"}
 <br>
 
