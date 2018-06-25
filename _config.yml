@@ -1,5 +1,5 @@
 # SEO settings
-title: InAbsentia
+title: Iyyel
 site_name: "ALL THINGS *NIX"
 title_description: "*nix site about software development and other wonderful niche things"
 description: "ALL THINGS *NIX is a site hosted by software developer and self-taught programmer, InAbsentia.
@@ -8,7 +8,7 @@ keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo,
            engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project, artificial, intelligence,
            machine, learning, deep, learning, robotics, electronics, personal, blog, mindset, life, live, mind, thoughts, thought, education, university"
 
-url: https://inabsentia.io
+url: https://iyyel.io
 baseurl: null
 
 # Build settings
@@ -30,13 +30,13 @@ sass:
 
 # Author settings
 author:
-  name     : "InAbsentia"
+  name     : "Iyyel"
   job      : " ..buffer overflow.."
   bio      : "ricer // *nix enthusiast // developer"
   thumb    : /assets/img/author.jpg
-  email    : absentia@inabsentia.io
-  url      : https://inabsentia.io
-  github   : https://github.com/inabsencia
+  email    : i@iyyel.io
+  url      : https://iyyel.io
+  github   : https://github.com/iyyel
 
 # social settings
 og_locale: "en_US"
