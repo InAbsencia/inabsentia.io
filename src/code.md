@@ -38,5 +38,5 @@ SuperHangman is hangman for your Android phone. Starting out as a school assignm
 turned into a full-fledged Android application with a lot of development ahead of it.
 {: style="text-align: justify;"}
 
-Source: <a href="https://github.com/iyyel/SuperHangman" target="_blank">https://github.com/iyyel/superhangman</a>
+Source: <a href="https://github.com/iyyel/superhangman" target="_blank">https://github.com/iyyel/superhangman</a>
 {: style="text-align: justify;"}

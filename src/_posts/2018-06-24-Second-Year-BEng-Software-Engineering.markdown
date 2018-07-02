@@ -61,7 +61,7 @@ when I was researching things myself, looking through the Android documentation 
 put the time into creating an application, I could do it fairly well, which is a really nice feeling to have.
 {: style="text-align: justify;"}
 
-If interested, you can see the <a href="https://github.com/iyyel/SuperHangman">hangman</a> project on my GitHub and down below I'll talk a little bit about the iterative development of the 
+If interested, you can see the <a href="https://github.com/iyyel/superhangman">hangman</a> project on my GitHub and down below I'll talk a little bit about the iterative development of the 
 user interface of our final exam application. This application was a bit more complex than the hangman one, since the essence of this application was to communicate with special effects weapons (real looking
  weapons shooting flames, not actual bullets) made out of Arduino boards. At first, it was unsure whether the communication was gonna be based on Bluetooth or WiFi, but later it was decided that WiFi was going to be the final choice.
 {: style="text-align: justify;"}
@@ -104,7 +104,7 @@ about each of the courses, starting out with Linear Algebra.
 <br/>
 #### Linear Algebra
 <hr>
-If you've read the <a href="https://inabsentia.io/about/">about</a> page, you'll know that I enjoy mathematics, so having a course in pure Linear Algebra was pretty exciting.
+If you've read the <a href="https://iyyel.io/about/">about</a> page, you'll know that I enjoy mathematics, so having a course in pure Linear Algebra was pretty exciting.
 It was however, a little bit more demanding than my first math course (Calculus and Algebra I), but that's obviously to be expected. It started out fairly basic with stuff 
 like Gaussian elimination, Gauss-Jordan elimination to end out with analysis of periodic functions and Fourier series and analysis. The course consisted of 2 bigger
 math projets and a homework assignment every week, so nothing special here. I quite enjoyed the course.

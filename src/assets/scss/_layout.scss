@@ -73,9 +73,10 @@ hr {
 }
 
 .site-header {
-  border-top: 5px solid $light-gray-color;
+  //border-top: 5px solid $light-gray-color;
   margin-bottom: $small-spacing;
-  min-height: 80px;
+  //min-height: 80px;
+  min-height: 50px;
 }
 
 .intro {
