@@ -7,7 +7,7 @@ I write software to make my computer do what I want it to do. I find problems an
 All of my work is open source under the MIT license and is available free of charge to modify, redistribute and use.
 {: style="text-align: justify;"}
 
-Below is a list of my most popular projects. All projects can be viewed on <a href="https://github.com/iyyel" target="_blnak">GitHub.</a>
+Below is a list of my most popular projects. All projects can be viewed on my <a href="https://github.com/iyyel" target="_blank">GitHub.</a>
 {: style="text-align: justify;"}
 <br>
 

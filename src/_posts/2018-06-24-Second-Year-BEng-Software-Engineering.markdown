@@ -30,7 +30,7 @@ Ah, the 3rd semester. I remember I was both very excited for and afraid of this 
 - ▪ Operating Systems  
 {: style="text-align: justify;"}
 <br/>
-I'm not sure whether I have made this clear before or not, but my school uses 2 semesters for a whole school year, where a semester consists of 4, 5 ECTS courses and a single 10 ECTS course.
+I'm not sure whether I have made this clear before or not, but my university uses 2 semesters for a whole school year, where a semester consists of 4, 5 ECTS courses and a single 10 ECTS course.
 The first period of school is 13 weeks long where all courses are taught during the week. The second period is 3 weeks long, where a single course is taught, primarily consisting of group work. This is where the last 5 ECTS of the 10 ECTS point course go.
 {: style="text-align: justify;"}
 
@@ -82,8 +82,8 @@ processes, IPC, threads, locks, mutexes, semaphores, file systems, caches etc. I
 {: style="text-align: justify;"}
 
 The exam was multiple choice questions, 5 possible answers with only 1 correct answer. I'm not gonna lie and say it wasn't a little tricky, because it was, but I quite enjoyed the
-exam as well. I'm also really happy that I had this course in advance to the Parallel Systems course in my 4th semester, since I feel like it gave me strong fundamentals before going even deeper caching, 
-threads and the likes. I'm not gonna say much else about this course, other than if your school offers a operating systems course, you should definitely go ahead and take it.
+exam as well. I'm also really happy that I had this course in advance to the Parallel Systems course in my 4th semester, since I feel like it gave me strong fundamentals before going even deeper 
+into caching, threads and the likes. I'm not gonna say much else about this course, other than if your school offers a operating systems course, you should definitely go ahead and take it.
 {: style="text-align: justify;"}
 <br/>
 ### 4th semester

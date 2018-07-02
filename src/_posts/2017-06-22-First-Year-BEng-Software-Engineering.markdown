@@ -81,5 +81,7 @@ As a conclusion of my first year, I would say that I have learned a ton that I c
 <hr>
 This sums up the general experience of my first year at university. It hasn't been without flaws, I believe that is to be expected.
 I hope that at least one person will find this post useful in one way or the other, perhaps someone who is considering the same program. If so, I would
-not hesitate at all. Thank you for reading and have a great day.
+not hesitate at all.
+{: style="text-align: justify;"}
+Thank you for reading.
 {: style="text-align: justify;"}

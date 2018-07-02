@@ -4,17 +4,17 @@ title: Resume
 permalink: /resume/
 ---
 
-I have experience in a handful of various technologies and have used
-these to create different kinds of systems. If interested to know more or want to see
+I have experience in a variety of technologies and have used
+those to create various kinds of systems. If interested to know more or want to see
 my actual resume, don't hesitate to contact me through the <a href="https://iyyel.io/contact/">contact</a> page.
 {: style="text-align: justify;"}
-Below, a list of the most important points can be seen.
+Below is a list of the most important points regarding my experience.
 {: style="text-align: justify;"}
 <br>
 
 #### Education
 <hr>
-Bachelor in Engineering, Software Engineering. (2016-2020) <br>
+Bachelor in Engineering (BEng.), Software Engineering. (2016-2020) <br>
 Technical University of Denmark.
 {: style="text-align: justify;"}
 <br>
