@@ -6,6 +6,10 @@
   }
 }
 
+html {
+  overflow-y: scroll
+}
+
 html,
 body {
   width: 100%;
@@ -76,7 +80,7 @@ hr {
   //border-top: 5px solid $light-gray-color;
   margin-bottom: $small-spacing;
   //min-height: 80px;
-  min-height: 50px;
+  min-height: 60px;
 }
 
 .intro {
