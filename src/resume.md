@@ -33,7 +33,7 @@ Technical University of Denmark.
 - ▪ Distributed System: Implemented a distributed system with 4 clients using RESTful webservices and RMI. Written in Python and Java.
 {: style="text-align: justify;"}
 <br>
-- ▪ Autonomous Drone: Implemented a system to fly a drone through a obstacle course autonomously. Written in Java, using OpenCV.
+- ▪ Autonomous Drone: Implemented a system to fly a drone through an obstacle course autonomously. Written in Java, using OpenCV.
 {: style="text-align: justify;"}
 <br>
 For personal projects, see the <a href="https://iyyel.io/code/">code</a> page.
