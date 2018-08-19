@@ -1,0 +1,4 @@
+reply_to: /test-page.html
+author: Erlich Bachman
+email: erlich@piedpiper.com
+text: "Nice comment system... Seems it prevents HTML <b>injection</b>. Multiple\r\n\r\nlines. Even *markdown* **formatting**."
