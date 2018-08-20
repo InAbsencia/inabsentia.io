@@ -22,7 +22,7 @@ popd
 CID="$(date +%s)-$(pwgen)"
 
 # Create a working copy
-git clone -b comments repo "$CID"
+git clone -b master repo "$CID"
 pushd "$CID"
 
 # Read input
