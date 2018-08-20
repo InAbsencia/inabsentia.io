@@ -36,7 +36,7 @@ BRANCH="comment/$CID"
 git checkout -b "$BRANCH"
 
 # Create comment file
-FILE="_data/comments/$CID.yaml"
+FILE="src/_data/comments/$CID.yaml"
 mkdir -p $(dirname "$FILE")
 for field in reply_to author email text
 do
