@@ -1,0 +1,7 @@
+[
+  {
+    "id": "test",
+    "execute-command": "./test.sh",
+    "command-working-directory": "./"
+  }
+]
