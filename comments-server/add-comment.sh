@@ -56,3 +56,14 @@ rm -rf "$CID"
 pushd repo
 git push --all
 popd
+
+# Send notification email
+cp -r ~/.scripts/mail_template.txt ./email.tmp
+echo "Reply to: $1" >> email.tmp
+echo "Author: $2" >> email.tmp
+echo "Email: $3" >> email.tmp
+echo "Text: $4" >> email.tmp
+
+sh ~/.scripts/send_email.sh
+
+rm -rf email.tmp
