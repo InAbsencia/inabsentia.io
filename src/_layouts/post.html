@@ -10,5 +10,13 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <br/>
+  <h3>Comments</h3>
+  <hr/>
+  {% include comments.html replies_to=page.url %}
+  <br/>
+  <h3>Add Comment</h3>
+  <hr/>
+  {% include comment-form.html reply_to=page.url %}
 </article>
 
