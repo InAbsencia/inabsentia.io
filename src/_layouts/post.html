@@ -10,13 +10,23 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+
   <br/>
+  {% include count-comments.html replies_to=page.url %}
+  {% if comment_count %}
   <h3>Comments</h3>
   <hr/>
   {% include comments.html replies_to=page.url %}
   <br/>
-  <h3>Add Comment</h3>
+  <h3>Add comment</h3>
   <hr/>
+  {% else %}
+  <h3>Comments</h3>
+  <hr/>
+  Be the first to comment!
+  <br/><br/>
+  <h3>Add comment</h3>
+  <hr/>
+  {% endif %}
   {% include comment-form.html reply_to=page.url %}
 </article>
-
