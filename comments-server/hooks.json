@@ -21,6 +21,14 @@
         "source": "url",
         "name":   "text"
       }
+    ],
+    "http-response-code": 302,
+    "response-headers":
+    [
+      {
+        "name":  "Location",
+        "value": "/comment"
+      }
     ]
   }
 ]
