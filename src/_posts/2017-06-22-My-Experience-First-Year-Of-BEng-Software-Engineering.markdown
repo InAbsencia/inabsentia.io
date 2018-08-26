@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First year, BEng. Software Engineering"
+title:  "My experience, First year of B.Eng. Software Engineering"
 date:   2017-06-22 11:36:42
 category: software
 keywords: "school, university, first year, 1st year"
