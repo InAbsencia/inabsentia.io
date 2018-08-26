@@ -14,7 +14,7 @@ Below is a list of the most important points regarding my experience.
 
 #### Education
 <hr>
-Bachelor in Engineering (BEng.), Software Engineering. (2016-2020) <br>
+Bachelor in Engineering (B.Eng.), Software Engineering. (2016-2020) <br>
 Technical University of Denmark.
 {: style="text-align: justify;"}
 <br>
@@ -24,16 +24,16 @@ Technical University of Denmark.
 - ▪ Chess AI: Implemented a Chess game using the alpha-beta pruning algorithm as an intelligent player. Written in Java.
 {: style="text-align: justify;"}
 <br>
-- ▪ Web application: Implemented a web application with a database backend, using MySQL, CRUD principles and RESTful webservices.
+- ▪ Web application: Implemented a web application with a database backend, using MySQL, CRUD principles and RESTful web services.
 {: style="text-align: justify;"}
 <br>
 - ▪ Android application: Implemented an Android application to control Arduino boards through a WiFi network. Written in Java and Kotlin.
 {: style="text-align: justify;"}
 <br>
-- ▪ Distributed System: Implemented a distributed system with 4 clients using RESTful webservices and RMI. Written in Python and Java.
+- ▪ Distributed System: Implemented a distributed system with 4 clients using RESTful web services and RMI. Written in Python, Java and Kotlin.
 {: style="text-align: justify;"}
 <br>
-- ▪ Autonomous Drone: Implemented a system to fly a drone through an obstacle course autonomously. Written in Java, using OpenCV.
+- ▪ Autonomous Drone: Implemented a system to fly a drone through an obstacle course autonomously using OpenCV. Written in Java.
 {: style="text-align: justify;"}
 <br>
 For personal projects, see the <a href="https://iyyel.io/code/">code</a> page.
@@ -42,11 +42,11 @@ For personal projects, see the <a href="https://iyyel.io/code/">code</a> page.
 
 #### Languages & Technologies
 <hr>
-- ▪ Java; Python; C; R; SQL; JavaScript; HTML; CSS.
+- ▪ Java; Python; C; C++; R; SQL; NoSQL; JavaScript; HTML; CSS.
 {: style="text-align: justify;"}
 - ▪ IntelliJ IDEA; Eclipse; Sublime Text; Visual Studio Code; Vim; CLI.
 {: style="text-align: justify;"}
-- ▪ Git; Maple.
+- ▪ Git; Hadoop; Maple.
 {: style="text-align: justify;"}
 - ▪ Linux; macOS; Windows.
 {: style="text-align: justify;"}
