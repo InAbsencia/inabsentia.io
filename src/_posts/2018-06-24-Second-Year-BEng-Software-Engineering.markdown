@@ -174,7 +174,7 @@ This is how my 5th semester is looking right now.
 - ▪ Innovation Pilot
 - ▪ Introduction to machine learning and data mining
 - ▪ Big Data
-- ▪ Business Intelligence
+- ▪ Network Security
 - ▪ Functional Programming
 {: style="text-align: justify;"}
 <br/>
