@@ -17,6 +17,9 @@ description: "The home page of Daniel Larsen, a passionate full-stack developer 
 thumbnail_path: "author/author_grayscale.jpg"
 website_repo_url: "https://github.com/iyyel/iyyel.io"
 
+destination: html
+source: src
+
 # URLs
 contact_urls:
   linkedin:
