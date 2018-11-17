@@ -1,61 +1,55 @@
-# SEO settings
-title: Iyyel
-site_name: "ALL THINGS *NIX"
-title_description: "*nix site about software development and other wonderful niche things"
-description: "ALL THINGS *NIX is a site hosted by software developer and self-taught programmer, Iyyel.
-              The site includes customization of *nix systems, various kinds of helpful tips and tricks and the thoughts of a developer."
-keywords: "ricing, linux, nix, *nix, unix, unix-like, bsd, arch, gentoo, funtoo, ubuntu, mint, void, open-source, gpl, mit, git, code, coding, programming, software, engineer, 
-           engineering, development, developer, programmer, computer, science, security, network, networking, personal, website, project, artificial, intelligence,
-           machine, learning, deep, learning, robotics, electronics, personal, blog, mindset, life, live, mind, thoughts, thought, education, university, iyyel"
+# Website settings
+url: "https://iyyel.io"
 
-url: https://iyyel.io
-baseurl: null
+# Internal nav
+nav:
+  main:
+    writing: "/writing"
+    resume: "/resume"
+  writing:
+    all: "/writing"
+    popular: "/writing/popular"
+    tags: "/writing/tags"
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : pygments
+# Bio settings
+name: "Daniel Larsen"
+description: "The home page of Daniel Larsen, a passionate full-stack developer thriving to solve complex problems through scalable and maintainble software."
+thumbnail_path: "author/author_grayscale.jpg"
+website_repo_url: "https://github.com/iyyel/iyyel.io"
 
-paginate: 4
-paginate_path: "/page/:num/"
-comments: true
+# URLs
+contact_urls:
+  linkedin:
+    url: "https://www.linkedin.com/in/daniellrsn/"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  facebook:
+    url: "https://www.facebook.com/daniellrsn/"
+    label: "Facebook"
+    icon: "facebook-square"
+  github:
+    url: "https://github.com/iyyel/"
+    label: "GitHub"
+    icon: "github-square"
+  email:
+    url: "mailto:i@iyyel.io"
+    label: "Email"
+    value: "i@iyyel.io"
+    icon: "envelope-square"
 
-source: src
-destination: html
-
-# Sass configuration
+# Jekyll build settings
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title/"
 sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'Europe/Copenhagen'
+repository: iyyel/iyyel.io
 
-# Author settings
-author:
-  name     : "Iyyel"
-  job      : " ..buffer overflow.."
-  bio      : "developer // *nix enthusiast // ricer"
-  thumb    : /assets/img/author.jpg
-  email    : i@iyyel.io
-  url      : https://iyyel.io
-  github   : https://github.com/iyyel
-
-# social settings
-og_locale: "en_US"
-
+# Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
-
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : code
-    title: Code
-  - slug : resume
-    title: Resume
-  - slug : contact
-    title: Contact
-  - slug : feed
-    title: Feed
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+  - jekyll-paginate

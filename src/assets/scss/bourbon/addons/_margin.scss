@@ -1,5 +1,0 @@
-@charset "UTF-8";
-
-@mixin margin($vals...) {
-  @include directional-property(margin, false, $vals...);
-}

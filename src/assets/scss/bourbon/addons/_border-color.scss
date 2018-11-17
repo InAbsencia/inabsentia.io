@@ -1,5 +1,0 @@
-@charset "UTF-8";
-
-@mixin border-color($vals...) {
-  @include directional-property(border, color, $vals...);
-}

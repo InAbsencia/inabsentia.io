@@ -1,13 +1,10 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
 source 'https://rubygems.org'
-
-group :development do
- gem 'html-proofer'
- gem 'jekyll-sitemap'
- gem 'jekyll', '~> 3.0', '>= 3.0.1'
- gem 'jekyll-paginate', '~> 1.1'
- gem 'sass', '~> 3.4', '>= 3.4.20'
- gem 'bourbon', '~> 4.2', '>= 4.2.6'
- gem 'pygments.rb', '~> 0.6.3'
+gem 'jekyll', '3.5.2'
+group :jekyll_plugins do
+  gem 'jekyll-redirect-from', '0.12.1'
+  gem 'jekyll-sitemap', '1.1.1'
+  gem 'jekyll-paginate', '1.1.0'
 end
+
+# https://github.com/jekyll/jekyll-redirect-from/issues/150
+Encoding.default_external = Encoding::UTF_8
