@@ -26,10 +26,10 @@ contact_urls:
     url: "https://www.linkedin.com/in/daniellrsn/"
     label: "LinkedIn"
     icon: "linkedin-square"
-  facebook:
-    url: "https://www.facebook.com/daniellrsn/"
-    label: "Facebook"
-    icon: "facebook-square"
+#  facebook:
+#    url: "https://www.facebook.com/daniellrsn/"
+#    label: "Facebook"
+#    icon: "facebook-square"
   github:
     url: "https://github.com/iyyel/"
     label: "GitHub"
