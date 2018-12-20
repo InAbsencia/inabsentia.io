@@ -27,7 +27,7 @@ contact_urls:
     label: "LinkedIn"
     icon: "linkedin-square"
 #  facebook:
-#    url: "https://www.facebook.com/daniellrsn/"
+#    url: "https://www.facebook.com/######/"
 #    label: "Facebook"
 #    icon: "facebook-square"
   github:
@@ -56,3 +56,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
+
+exclude: [vendor]
