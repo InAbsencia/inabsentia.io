@@ -1,6 +1,8 @@
 # iyyel.io
 
-This repository holds the source files for my personal website, [iyyel.io](https://iyyel.io). The static website generation tool [Jekyll](https://jekyllrb.com), is used to generate the actual website from these files. Refer to the `deploy_site.sh` script for more information.
+<p align="center">
+<a href="https://travis-ci.org/iyyel/iyyel.io"><img src="https://travis-ci.org/iyyel/iyyel.iosvg?branch=master"></a>
+<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+This repository holds the source files for my personal website, [iyyel.io](https://iyyel.io). The static website generation tool [Jekyll](https://jekyllrb.com), is used to generate the actual website from these files. Refer to the `deploy_site.sh` script for more information.
