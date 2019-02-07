@@ -14,7 +14,7 @@ nav:
 # Bio settings
 name: "Daniel Larsen"
 description: "The home page of Daniel Larsen, a passionate full-stack developer thriving to solve complex problems through scalable and maintainble software."
-thumbnail_path: "author/author_grayscale.jpg"
+thumbnail_path: "author/author.png"
 website_repo_url: "https://github.com/iyyel/iyyel.io"
 
 destination: html
