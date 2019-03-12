@@ -6,7 +6,9 @@ tags:
 - Software Engineering
 thumbnail_path: blog/internship.jpg
 excerpt: |
-
+    In September of 2018 I was interviewing at Netcompany for a software engineering
+    internship position in one of their application development teams. This happened after 
+    I sent a written application together with my resume and grades to one of their recruiters.
 ---
 
 {% include figure.html path=page.thumbnail_path alt="Internship" %}
