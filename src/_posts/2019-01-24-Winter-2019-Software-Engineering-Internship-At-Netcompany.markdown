@@ -31,12 +31,10 @@ an application letter and sent it away to their recruiter.
 {: style="text-align: justify;"}
 
 Some time later I was contacted by a recruiter and invited for an interview at their headquarters in Copenhagen.
-The most important thing to say from here on is that the interview went well, handshakes were exchanged and a contract was signed.
+The most important thing to say from here on is that the interview went well, handshakes were had and a contract was signed.
 {: style="text-align: justify;"}
 
 This means that, at the 1st of February 2019, I'm starting my first internship at Netcompany as a Software Engineering Intern and I couldn't be more excited for this opportunity.
 I'm going to be working with and side by side industry experts, trying to consume as much knowledge as I can to improve my skillset. I'm looking forward to meet new people, create new friendships
 and expand my network even further.
 {: style="text-align: justify;"}
-
-Again, thanks to Netcompany for this opportunity.

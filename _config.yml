@@ -13,8 +13,9 @@ nav:
 
 # Bio settings
 name: "Daniel Larsen"
-description: "The home page of Daniel Larsen, a passionate full-stack developer thriving to solve complex problems through scalable and maintainble software."
-thumbnail_path: "author/author.png"
+description: "The home page of Daniel \"Iyyel\" Larsen, a passionate software engineer. Daniel writes and speaks about his favorite technologies and his experiences in the tech-industry, hoping that he will be able to
+help the careers of aspiring software engineers and students."
+thumbnail_path: "author/author.jpg"
 website_repo_url: "https://github.com/iyyel/iyyel.io"
 
 destination: html
@@ -26,10 +27,6 @@ contact_urls:
     url: "https://www.linkedin.com/in/iyyel/"
     label: "LinkedIn"
     icon: "linkedin-square"
-#  facebook:
-#    url: "https://www.facebook.com/######/"
-#    label: "Facebook"
-#    icon: "facebook-square"
   github:
     url: "https://github.com/iyyel/"
     label: "GitHub"
