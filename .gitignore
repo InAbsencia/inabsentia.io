@@ -23,5 +23,6 @@ _site/
 .idea
 
 # Etc
+comments-server/repo
 html
 Gemfile.lock
