@@ -1,0 +1,46 @@
+# Website settings
+url: "https://iyyel.io"
+
+# Bio settings
+name: "Daniel Larsen"
+description: "The home page of Daniel \"Iyyel\" Larsen, a passionate software engineer. Daniel writes and speaks about his favorite technologies and his experiences in the tech-industry, hoping that he will be able to
+help the careers of aspiring software engineers and students."
+website_repo_url: "https://github.com/iyyel/iyyel.io"
+
+destination: html
+source: src
+
+# URLs
+contact_urls:
+  linkedin:
+    url: "https://www.linkedin.com/in/iyyel/"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  github:
+    url: "https://github.com/iyyel/"
+    label: "GitHub"
+    icon: "github-square"
+  email:
+    url: "mailto:i@iyyel.io"
+    label: "Email"
+    value: "i@iyyel.io"
+    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'Europe/Copenhagen'
+repository: iyyel/iyyel.io
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+
+exclude: [vendor]
