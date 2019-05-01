@@ -5,4 +5,4 @@
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-This repository holds the source files for my personal website, [iyyel.io](https://iyyel.io). The static website generation tool [Jekyll](https://jekyllrb.com), is used to generate the actual website from these files. Refer to the `deploy_site.sh` script for more information.
+This repository holds the source files for my personal website, [iyyel.io](https://iyyel.io). The static website generation tool [Jekyll](https://jekyllrb.com), is used to generate the actual website from these files. Refer to the `deploy.sh` script for more information.
