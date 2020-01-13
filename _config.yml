@@ -1,61 +1,110 @@
-# Website settings
-url: "https://iyyel.io"
+# main text of home
+name: Daniel Larsen
+bio: Insert bio here
 
-# Internal nav
-nav:
-  main:
-    writing: "/writing"
-    resume: "/resume"
-  writing:
-    all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
+# twitter summary info
+description: Description
 
-# Bio settings
-name: "Daniel Larsen"
-description: "The home page of Daniel \"Iyyel\" Larsen, a passionate software engineer. Daniel writes and speaks about his favorite technologies and his experiences in the tech-industry, hoping that he will be able to
-help the careers of aspiring software engineers and students."
-thumbnail_path: "author/author.jpg"
-website_repo_url: "https://github.com/iyyel/iyyel.io"
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/avatar.png
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
+
+url: https://iyyel.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
 destination: html
 source: src
 
-# URLs
-contact_urls:
-  linkedin:
-    url: "https://www.linkedin.com/in/iyyel/"
-    label: "LinkedIn"
-    icon: "linkedin-square"
-  facebook:
-    url: "https://www.facebook.com/OGiyyel/"
-    label: "Facebook"
-    icon: "facebook-square"
-  github:
-    url: "https://github.com/iyyel/"
-    label: "GitHub"
-    icon: "github-square"
-  email:
-    url: "mailto:i@iyyel.io"
-    label: "Email"
-    value: "i@iyyel.io"
-    icon: "envelope-square"
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: mygithub
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: myemail@gmail.com
 
-# Jekyll build settings
-paginate: 10
-paginate_path: "/writing/page:num"
-permalink: "/writing/:year/:month/:day/:title/"
-sass:
-  sass_dir: "/assets/css"
-  style: :compressed
-highlighter: rouge
-timezone: 'Europe/Copenhagen'
-repository: iyyel/iyyel.io
+authors:
+    iyyel:
+        name: Daniel Larsen
+        bio: Bio authors
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: johndoe
 
-# Plugins
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
 plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
 
-exclude: [vendor]
+jekyll-mentions:
+    base_url: https://github.com
+
+compress_html:
+    ignore:
+        envs:
+        - development
+        - stage
+
+exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
