@@ -1,9 +1,9 @@
 # main text of home
 name: Daniel Larsen
-bio: Insert bio here
+bio: Problem solver, tinkerer and organizer
 
 # twitter summary info
-description: Description
+description: Description?
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,24 +30,10 @@ permalink: /:title/
 destination: html
 source: src
 
-# if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: mygithub
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-email: myemail@gmail.com
+facebook: OGiyyel
+linkedin: iyyel
+github: iyyel
+email: i@iyyel.io
 
 authors:
     iyyel:
