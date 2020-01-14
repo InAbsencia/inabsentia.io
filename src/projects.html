@@ -2,15 +2,24 @@
 layout: page
 title: Projects
 ---
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+
+<h2>iyyel.io</h2>
+The website you're currently on. Used as a blog and portfolio, a place where I can get out my thoughts.
+Powered by Jekyll this site runs entirely for free (minus a yearly domain cost and server) and scores a
+perfect performance score in all speed tests.
+
+Source: <a href="https://github.com/iyyel/iyyel.io" target="_blank">https://github.com/iyyel/iyyel.io</a>
+<br>
+
+<h2>Celestial Outbreak</h2>
+My first open source and independent project. It's a Breakout-like game, inspired by planets with a focus on
+game and user customization, written in Java. Started in 2015 and steadily going further.
+
+Source: <a href="https://github.com/iyyel/celestialoutbreak" target="_blank">https://github.com/iyyel/celestialoutbreak</a>
+<br>
+
+<h2>SuperHangman</h2>
+SuperHangman is hangman for your Android phone. Starting out as a school assignment, SuperHangman has
+turned into a full-fledged Android application with a lot of development ahead of it.
+
+Source: <a href="https://github.com/iyyel/superhangman" target="_blank">https://github.com/iyyel/superhangman</a>
