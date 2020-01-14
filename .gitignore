@@ -1,8 +1,20 @@
-.DS_Store
-_site
-.sass-cache
+# Jekyll
 Gemfile.lock
 .bundle
-vendor/
 html
-src
+_site
+.sass-cache
+.jekyll-metadata
+vendor
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vagrant
+.vagrant
+
+# Intellij
+*.iml
+.idea
