@@ -1,13 +1,3 @@
-<p align="center">
-<a href="https://travis-ci.org/iyyel/iyyel.io"><img src="https://travis-ci.org/iyyel/iyyel.io.svg?branch=master"></a>
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-</p>
-
-
-
-
-
-
 ```
  _                      _     _        
 (_) _   _  _   _   ___ | |   (_)  ___  
@@ -24,6 +14,11 @@
  ░▓▓▓▓▓▓▓▓▓▓
  ░░░░░░░░░░
 ```
+
+<p align="center">
+<a href="https://travis-ci.org/iyyel/iyyel.io"><img src="https://travis-ci.org/iyyel/iyyel.io.svg?branch=master"></a>
+<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
 
 ## Table of Contents
  - [Introduction](#Introduction)
