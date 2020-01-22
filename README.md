@@ -46,15 +46,19 @@ First, install Jekyll by following the guide for your operating system [here](ht
 Make sure that the `jekyll` and `bundler` gems are installed.
 
 Clone the repository:
+
 `git clone https://github.com/iyyel/iyyel.io`
 
 Change into the directory:
+
 `cd iyyel.io`
 
 Install the necessary gems:
+
 `bundle install`
 
 Run the site locally:
+
 `bundle exec jekyll serve`
 
 Visit the site on localhost:4000.
