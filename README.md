@@ -49,7 +49,7 @@ Make sure that the `jekyll` and `bundler` gems are installed.
 
 In the most basic sense, you run a local server through Jekyll where you can modify your site to your liking.
 This is done through the `jekyll` and `bundler` gems. When you are happy with your result, you can deploy
-it to your server or github pages for example.
+it to your server or github pages.
 
 # tl;dr
 
