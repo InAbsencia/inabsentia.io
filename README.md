@@ -45,6 +45,14 @@ theme called [Indigo](https://github.com/sergiokopplin/indigo) so all credit goe
 First, install Jekyll by following the guide for your operating system [here](https://jekyllrb.com/docs/installation/).
 Make sure that the `jekyll` and `bundler` gems are installed.
 
+# How it works
+
+In the most basic sense, you run a local server through Jekyll where you can modify your site to your liking.
+This is done through the `jekyll` and `bundler` gems. When you are happy with your result, you can deploy
+it to your server or github pages for example.
+
+# tl;dr
+
 Clone the repository:
 
 `git clone https://github.com/iyyel/iyyel.io`
@@ -63,11 +71,6 @@ Run the site locally:
 
 Visit the site on localhost:4000.
 
-# How it works
-
-# tl;dr
-
 # License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-
