@@ -38,7 +38,7 @@ When it comes to websites, I am all about simplicity and performance,
 which is why I am a big fan of static websites. This site is built using the static generation tool
 [Jekyll](https://jekyllrb.com/) which makes it easy to manage blogs and simple markdown and html files
 for the site. This site is based on [Sergio Kopplin](https://koppl.in/)'s Jekyll
-theme called [Indigo](https://github.com/sergiokopplin/indigo) so all credit goes to him for the base site.
+theme called [Indigo](https://github.com/sergiokopplin/indigo), all credit goes to him for the base site.
 
 # Installing
 
