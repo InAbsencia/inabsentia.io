@@ -6,8 +6,8 @@ bundle exec jekyll build
 echo "Done."
 
 echo "Copying new files..."
-sudo rm -rf /var/www/iyyel.io/public_html/*
-sudo cp -r html/* /var/www/iyyel.io/public_html/.
+sudo rm -rf /var/www/iyyel.io/html/*
+sudo cp -r html/* /var/www/iyyel.io/html/.
 echo "Done."
 
 echo "Cleaning up..."

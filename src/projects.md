@@ -25,6 +25,7 @@ SuperHangman brings hangman to smartphones. Started out as a school assignment, 
 turned into a full-fledged mobile application with a lot of development ahead of it. Made with Kotlin.
 
 Source: <a class="link" href="https://github.com/iyyel/superhangman">github</a>
+<br/><br/>
 
 ## iyyel.io
 Personal website used as a blog and portfolio. Powered by
