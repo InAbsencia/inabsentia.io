@@ -29,6 +29,15 @@
 
 # Introduction
 
+[iyyel.io](https://iyyel.io) is a personal website used as a blog and portfolio. I use it 
+to blog about technology when I feel like it and to showcase the projects that I've been 
+involved in. If one would like to contact me, there are several options 
+listed on the site as well. When it comes to websites, I am all about simplicity and performance,
+which is why I am a big fan of static websites. This site is built using the static generation tool
+[Jekyll](https://jekyllrb.com/) which makes it easy to manage blogs and simple markdown and html files
+for the site. This site is based on [Sergio Kopplin](https://github.com/sergiokopplin/indigo)'s Jekyll
+theme called [Indigo](https://github.com/sergiokopplin/indigo) so all credit goes to him for the base site.
+
 # Installing
 
 # How it works
