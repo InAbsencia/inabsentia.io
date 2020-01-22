@@ -35,5 +35,5 @@ Created with HTML/CSS.
 Source: <a class="link" href="https://github.com/iyyel/iyyel.io">github</a>
 <br/><br/>
 
-More of my projects can be found on <a class="link" href="https://github.com/iyyel">github</a>
-or <a class="link" href="https://git.iyyel.io/iyyel">gitea</a>.
+More of my projects can be found on <a class="link" href="https://github.com/iyyel">github</a>.
+Mirrors available on <a class="link" href="https://git.iyyel.io/iyyel">gitea</a>.

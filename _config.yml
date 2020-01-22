@@ -45,7 +45,7 @@ blog: false
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: resume/resume.pdf
 
 # do you want to show the "read time" of the posts?
 read-time: true
