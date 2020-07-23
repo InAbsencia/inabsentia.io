@@ -1,0 +1,15 @@
+<div class=first-xs>
+    <div class=section-header>Projects</div>
+    <ul class=items>
+        $for(projects)$
+            <li>
+                <a href=$url$>$title$</a>
+                <p>$desc_small$</p>
+            </li>
+        $endfor$
+    </ul>
+    <!-- 
+        enable this piece of code when you have more projects
+        <a href=/projects class=section-link>more</a>
+    -->
+</div>

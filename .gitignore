@@ -1,20 +1,5 @@
-# Jekyll
-Gemfile.lock
-.bundle
-html
 _site
-.sass-cache
-.jekyll-metadata
-vendor
-
-# OS X
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Vagrant
-.vagrant
-
-# Intellij
-*.iml
-.idea
+_cache
+.stack-work
+stack.yaml.lock
+iyyel-io.cabal
