@@ -36,20 +36,17 @@ listed on the site as well.
 
 When it comes to websites, I am all about simplicity and performance,
 which is why I am a big fan of static websites. This site is built using the static generation tool
-[Jekyll](https://jekyllrb.com/) which makes it easy to manage blogs and simple markdown and html files
-for the site. This site is based on [Sergio Kopplin](https://koppl.in/)'s Jekyll
-theme called [Indigo](https://github.com/sergiokopplin/indigo), all credit goes to him for the base site.
+[Hakyll](https://jaspervdj.be/hakyll/) which makes it easy to manage blogs and simple markdown and html files
+for the site.
 
 # Installing
 
-First, install Jekyll by following the guide for your operating system [here](https://jekyllrb.com/docs/installation/).
-Make sure that the `jekyll` and `bundler` gems are installed.
+First, install Hakyll by following the tutorial on the link above.
 
 # How it works
 
-In the most basic sense, you run a local server through Jekyll where you can modify your site to your liking.
-This is done through the `jekyll` and `bundler` gems. When you are happy with your result, you can deploy
-it to your server or github pages.
+In the most basic sense, you run a local server through Hakyll where you can modify your site to your liking.
+When you are happy with your result, you can deploy it to your choice of hosting environment.
 
 # tl;dr
 
@@ -61,15 +58,15 @@ Change into the directory:
 
 `cd iyyel.io`
 
-Install the necessary gems:
-
-`bundle install`
+`stack init'
 
 Run the site locally:
 
-`bundle exec jekyll serve`
+`stack exec site build`
 
-Visit the site on localhost:4000.
+`stack exec site watch`
+
+Visit the site on localhost:8000.
 
 # License
 
