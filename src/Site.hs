@@ -81,7 +81,7 @@ main = hakyll $ do
                 >>= relativizeUrls
     
     match "content/pgp/key.asc" $ do
-        route   idRoute
+        route   stripContent
         compile copyFileCompiler
 
 ------------------
