@@ -1,11 +1,13 @@
 ```
- _                      _     _        
-(_) _   _  _   _   ___ | |   (_)  ___  
-| || | | || | | | / _ \| |   | | / _ \ 
-| || |_| || |_| ||  __/| | _ | || (_) |
-|_| \__, | \__, | \___||_|(_)|_| \___/ 
-    |___/  |___/ 
-   
+  _                  _   _       
+ (_)                | | (_)      
+  _ _   _ _   _  ___| |  _  ___  
+ | | | | | | | |/ _ \ | | |/ _ \ 
+ | | |_| | |_| |  __/ |_| | (_) |
+ |_|\__, |\__, |\___|_(_)_|\___/ 
+     __/ | __/ |                 
+    |___/ |___/                  
+    
   ▓▓▓▓▓▓▓▓▓▓
  ░▓ about  ▓ personal website
  ░▓ author ▓ iyyel <i@iyyel.io>
@@ -15,11 +17,6 @@
  ░░░░░░░░░░
 ```
 
-<p align="center">
-<a href="https://travis-ci.org/iyyel/iyyel.io"><img src="https://travis-ci.org/iyyel/iyyel.io.svg?branch=master"></a>
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-</p>
-
 ## Table of Contents
  - [Introduction](#Introduction)
  - [Installing](#Installing)
@@ -27,29 +24,28 @@
  - [tl;dr](#tldr)
  - [License](#License)
 
-# Introduction
 
+# Introduction
 [iyyel.io](https://iyyel.io) is a personal website used as a blog and portfolio. I use it 
-to blog about technology when I feel like it and to showcase the projects that I've been 
+to blog about technology when I feel like it and to showcase the projects that I have been 
 involved in. If one would like to contact me, there are several options 
 listed on the site as well.
 
 When it comes to websites, I am all about simplicity and performance,
 which is why I am a big fan of static websites. This site is built using the static generation tool
-[Hakyll](https://jaspervdj.be/hakyll/) which makes it easy to manage blogs and simple markdown and html files
-for the site.
+[Hakyll](https://jaspervdj.be/hakyll/) which makes it easy to manage blogs with simple markdown and html files.
+
 
 # Installing
-
 First, install Hakyll by following the tutorial on the link above.
 
-# How it works
 
+# How it works
 In the most basic sense, you run a local server through Hakyll where you can modify your site to your liking.
 When you are happy with your result, you can deploy it to your choice of hosting environment.
 
-# tl;dr
 
+# tl;dr
 Clone the repository:
 
 `git clone https://github.com/iyyel/iyyel.io`
@@ -68,6 +64,6 @@ Run the site locally:
 
 Visit the site on localhost:8000.
 
-# License
 
+# License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
