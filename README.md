@@ -9,7 +9,7 @@
     |___/ |___/                  
     
   ▓▓▓▓▓▓▓▓▓▓
- ░▓ about  ▓ personal website generated with Hakyll
+ ░▓ about  ▓ personal website made with Hakyll
  ░▓ author ▓ iyyel <i@iyyel.io>
  ░▓ code   ▓ https://github.com/iyyel/iyyel.io
  ░▓ mirror ▓ https://git.iyyel.io/iyyel/iyyel.io
