@@ -9,7 +9,7 @@
     |___/ |___/                  
     
   ▓▓▓▓▓▓▓▓▓▓
- ░▓ about  ▓ personal website
+ ░▓ about  ▓ personal website generated with Hakyll
  ░▓ author ▓ iyyel <i@iyyel.io>
  ░▓ code   ▓ https://github.com/iyyel/iyyel.io
  ░▓ mirror ▓ https://git.iyyel.io/iyyel/iyyel.io
@@ -21,7 +21,6 @@
  - [Introduction](#Introduction)
  - [Installing](#Installing)
  - [How it works](#How-it-works)
- - [tl;dr](#tldr)
  - [License](#License)
 
 
@@ -34,19 +33,13 @@ listed on the site as well.
 When it comes to websites, I am all about simplicity and performance,
 which is why I am a big fan of static websites. This site is built using the static generation tool
 [Hakyll](https://jaspervdj.be/hakyll/) which makes it easy to manage blogs with simple markdown and html files.
+The site scores perfect performance results in almost all tests due to its static nature.
 
 
 # Installing
-First, install Hakyll by following the tutorial on the link above.
+First, install [Hakyll](https://jaspervdj.be/hakyll/) by following the link.
 
-
-# How it works
-In the most basic sense, you run a local server through Hakyll where you can modify your site to your liking.
-When you are happy with your result, you can deploy it to your choice of hosting environment.
-
-
-# tl;dr
-Clone the repository:
+Clone this repository (use the mirror if needed):
 
 `git clone https://github.com/iyyel/iyyel.io`
 
@@ -63,6 +56,11 @@ Run the site locally:
 `stack exec site watch`
 
 Visit the site on localhost:8000.
+
+
+# How it works
+In the most basic sense, you run a local server through Hakyll where you can modify your site to your liking.
+When you are happy with your result, you can deploy it to your choice of hosting environment.
 
 
 # License
