@@ -47,7 +47,7 @@ Change into the directory:
 
 `cd iyyel.io`
 
-`stack init'
+`stack init`
 
 Run the site locally:
 
