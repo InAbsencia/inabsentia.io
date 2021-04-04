@@ -1,8 +1,0 @@
-1. Copying from assets/ not always working, especially problems with nested folders.
-2. How to do social links dynamically? Does it even make sense to try?
-3. Make CSS work! :)
-5. Favicon :))
-6. Currently, the stuff/ folder is not needed on the server, as it is just links. Is there a better way to do this?
-7. Only show 5 elements in each of the columns. Make the more button work.
-8. Preview images for projects. How to?
-9. Everything should be minified. How to?

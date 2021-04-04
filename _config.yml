@@ -1,0 +1,20 @@
+# Site settings
+title: Daniel Larsen
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Daniel Larsen
+user_description: I'm Daniel Larsen, a software engineer living in Denmark. I'm always searching for 
+                  the next challenge; no task is too scary nor too difficult. Lately I have been immersed
+                  in the <b>insurance</b> world working for Netcompany, a Copenhagen based consultancy company
+                  with the mission of being the leading digital challenger in Northern Europe.
+user_title: Software Engineer
+email: i@iyyel.io
+# twitter_username: lorem_ipsum
+github_username: iyyel
+# gplus_username:  lorem_ipsum
+linkedin_username: iyyel
+
+exclude: ['package.json', 'src' , 'node_modules', 'vendor']

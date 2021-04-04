@@ -1,5 +1,7 @@
-_site
-_cache
-.stack-work
-stack.yaml.lock
-iyyel-io.cabal
+.sass-cache/
+.jekyll-metadata
+node_modules
+.vscode
+_site/
+vendor
+.bundle

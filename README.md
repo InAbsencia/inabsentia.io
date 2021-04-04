@@ -9,7 +9,7 @@
     |___/ |___/                  
     
   ▓▓▓▓▓▓▓▓▓▓
- ░▓ about  ▓ personal website made with Hakyll
+ ░▓ about  ▓ personal website made with Jekyll
  ░▓ author ▓ iyyel <i@iyyel.io>
  ░▓ code   ▓ https://github.com/iyyel/iyyel.io
  ░▓ mirror ▓ https://git.iyyel.io/iyyel/iyyel.io
@@ -25,19 +25,18 @@
 
 
 # Introduction
-[iyyel.io](https://iyyel.io) is a personal website used as a blog and portfolio. I use it 
-to blog about technology when I feel like it and to showcase the projects that I have been 
-involved in. If one would like to contact me, there are several options 
-listed on the site as well.
+[iyyel.io](https://iyyel.io) is a personal website used as a portfolio. I use it 
+to showcase the projects that I have been involved in. 
+If one would like to contact me, there are several options listed on the site as well.
 
 When it comes to websites, I am all about simplicity and performance,
 which is why I am a big fan of static websites. This site is built using the static generation tool
-[Hakyll](https://jaspervdj.be/hakyll/) which makes it easy to manage blogs with simple markdown and html files.
+[Jekyll](https://jekyllrb.com/) which makes it easy to manage sites  with simple markdown and html files.
 The site scores perfect performance results in almost all tests due to its static nature.
 
 
 # Installing
-First, install [Hakyll](https://jaspervdj.be/hakyll/) by following the link.
+First, install [Jekyll](https://jekyllrb.com/) by following the link.
 
 Clone this repository (use the mirror if needed):
 
@@ -47,19 +46,19 @@ Change into the directory:
 
 `cd iyyel.io`
 
-`stack init`
+`gem install jekyll bundler`
 
 Run the site locally:
 
-`stack exec site build`
+`bundle exec jekyll build`
 
-`stack exec site watch`
+`bundle exec jekyll watch`
 
-Visit the site on localhost:8000.
+Visit the site on localhost:4000.
 
 
 # How it works
-In the most basic sense, you run a local server through Hakyll where you can modify your site to your liking.
+In the most basic sense, you run a local server through Jekyll where you can modify your site to your liking.
 When you are happy with your result, you can deploy it to your choice of hosting environment.
 
 
